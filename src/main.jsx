@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     element:<App/>
   },
   {
-    path:"/newuser",
+    path:"votingapp-nu.vercel.app/newuser",
     element:<NewUser/>
   },
   {
